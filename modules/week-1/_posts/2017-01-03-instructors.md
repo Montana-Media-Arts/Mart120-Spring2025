@@ -9,7 +9,7 @@ jotted: false
 <div class="tab">
   <button class="tablinks active" onclick="openTab(event, 'Quick')">Quick Links</button>
   <button class="tablinks" onclick="openTab(event, 'Cory')">Cory McKague</button>
-  <button class="tablinks" onclick="openTab(event, 'Brittany')">TA Brittany Weslund</button>
+  <button class="tablinks" onclick="openTab(event, 'Brittany')">TA Brittany Westlund</button>
 </div>
 
 <div id="Quick" class="tabcontent" style="display:block">
@@ -27,4 +27,10 @@ jotted: false
 <p>Cory is currently at the University of Montana as an Assistant Professor of Game Design and Interactive Media in the School of Visual and Media Arts. In addition to continuing his other endeavors, Cory is teaching courses within the Game Design and Interactive Media concentration. These courses focus on preparing students to contribute to the gaming, technical and artistic industries.  Below is a video of some of our students' work.</p>
 <p><a href="//www.youtube.com/embed/AnjxNmQlLns" data-lity>Game Design and Interactive Media Video</a></p>
 <p>Cory is an artist, creative technologist, educator, game designer who loves being outside with his family as well as biking, snowboarding, hiking, rock climbing, and just being in nature.</p>
+</div>
+<div id="Brittany" class="tabcontent" style="floatleft">
+<p>Brittany Westlund</p>
+<p><a href="mailto:brittany.westlund@umt.edu">brittany.westlund@umt.edu</a></p>
+<p>Is the TA and grader for this course. Feel free to reach out to them as 
+well for any questions </p>
 </div>

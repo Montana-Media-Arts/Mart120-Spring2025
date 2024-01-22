@@ -1,5 +1,5 @@
 # basic configuration
-baseurl: https://montana-media-arts.github.io/webDesignSpring2024/
+baseurl: 
 markdown: kramdown
 permalink: /:categories/:title/
 # Code highlighting

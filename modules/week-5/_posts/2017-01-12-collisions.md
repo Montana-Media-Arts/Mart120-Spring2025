@@ -21,4 +21,4 @@ Collisions are an essential part of any program, and you have used these in Scra
 <p><img src="../imgs/Collision6.png" alt="Collision 6" /></p>
 
 <!-- video here -->
-<p><a href="//www.youtube.com/embed/bfakh5eiNrM" data-lity>Collisions Video</a></p>
+<p><iframe src="https://umontana.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=535aa50c-3287-44f9-a64d-b10d015502a9&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=none" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe></p>

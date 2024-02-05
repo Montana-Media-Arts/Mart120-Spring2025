@@ -12,7 +12,7 @@ In Alice, creating `global` variables, procedures, and functions allows you to u
 
 <!-- video -->
 ### Variables
-<p><a href="//www.youtube.com/embed/v223_xvGGIA" data-lity>Variables Video</a></p>
+<p><iframe src="https://umontana.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=136409ce-0a5a-4db0-8796-b10d01556a1d&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=none" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe></p>
 
 ### Functions
-<p><a href="//www.youtube.com/embed/WnJ3CL_igO4" data-lity>Functions Video</a></p>
+<p><iframe src="https://umontana.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=abec345d-7ea4-4870-bfdf-b10d0155353b&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=none" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe></p>

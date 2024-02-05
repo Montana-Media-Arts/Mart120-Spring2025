@@ -5,6 +5,7 @@ module: 5
 
 # What Inspires Us <br />
 
-<p><a href="//www.youtube.com/embed/LTxlvS_BYBs" data-lity>Inspire Video</a></p>
 
-Last week we looked mobile phones and how they have shaped us and influences with others. This week we will shift our focus to inspiration. As artists, game designers, developers, and interactive media artists, inspiration is all around us. Maybe it's our environment, other artists, a particular game, a website, or another creator.  We will discuss what inspires us to create and why.
+
+Last week we looked mobile phones and how they have shaped us and influences with others. This week's dicussion topic will shift our focus to inspiration. As artists, game designers, developers, and interactive media artists, inspiration is all around us. Maybe it's our environment, other artists, a particular game, a website, or another creator.  We will discuss what inspires us to create and why. Post your thoughts on inspiration in this week's discussion board on discord and respond to two of your classmates. 
+![Discord](https://discord.com/channels/1193953766668501058/1204166889723396197)

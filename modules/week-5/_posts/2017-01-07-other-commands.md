@@ -10,4 +10,4 @@ There are several other commands in which you can use.  In the following video, 
 
 <p><img src="../imgs/OtherCommands.png" alt="Other Commands" /></p>
 
-<p><a href="//www.youtube.com/embed/xDeddxGQY9c" data-lity>Additional Commands Video</a></p>
+<p><iframe src="https://umontana.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=fd988b10-8382-4736-991f-b10d0154cb10&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe></p>

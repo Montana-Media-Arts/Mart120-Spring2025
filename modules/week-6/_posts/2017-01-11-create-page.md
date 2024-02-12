@@ -6,7 +6,10 @@ jotted: true
 
 # Create a page
 <!-- video -->
-<p><a href="//www.youtube.com/embed/MHFTsmoNWQU" data-lity>Create a page Video</a></p>
+
+<iframe src="https://umontana.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=98ff25cb-679d-4467-8a9f-b11401451fba&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=none" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
+
+
 
 I am so excited that you made it this far!  You are learning the basics of HTML well. One crucial step is to learn how to create and save it to view the page in a browser.
 

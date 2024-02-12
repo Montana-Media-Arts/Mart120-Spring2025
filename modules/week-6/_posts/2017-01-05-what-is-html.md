@@ -7,19 +7,17 @@ jotted: true
 # HTML
 
 <div class="tab">
-  <button class="tablinks active" onclick="openTab(event, 'Overview')">Overview</button>
-   <button class="tablinks" onclick="openTab(event, 'What')">What is</button>
+  <button class="tablinks active" onclick="openTab(event, 'Overview')">What is HTML?</button>
+ 
     
 </div>
 
 <!-- Tab content -->
 <div id="Overview" class="tabcontent" style="display:block">
-<!-- video -->
-<p><a href="//www.youtube.com/embed/LOtPdX1t2ro" data-lity>Overview Video</a></p>
+
 
 <p>I always find it useful to define what it is we are doing before we use it.</p>
-</div>
-<div id="What" class="tabcontent">
+
 
 <p>So what is <b>HTML</b>?</p>
 

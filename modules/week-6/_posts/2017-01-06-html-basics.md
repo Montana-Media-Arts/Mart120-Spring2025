@@ -16,7 +16,7 @@ jotted: false
 <!-- Tab content -->
 <div id="Overview" class="tabcontent" style="display:block">
 
-<p><a href="//www.youtube.com/embed/CeZfpz4_abw" data-lity>HTML Basics Video</a></p>
+<iframe src="https://umontana.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=51ca4a80-5095-4d07-957f-b1140175a622&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=none" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
 
 What other tags do we need to make stuff show up?
 
@@ -60,8 +60,8 @@ What other tags do we need to make stuff show up?
 <div id="ToDo" class="tabcontent">
 
 <p class="codepen" data-height="600" data-default-tab="html,result" data-slug-hash="zYzbMqz" data-editable="true" data-user="retrog4m3r" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/zYzbMqz">
-  HTML Basics</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
+  <span>See the Pen <a href="https://codepen.io/coryMcKague/pen/XWGxWgV">
+  HTML Basics</a> by Cory (<a href="https://codepen.io/coryMcKague/pen/XWGxWgV">@CoryMcKague</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>

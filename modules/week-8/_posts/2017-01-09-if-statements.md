@@ -20,7 +20,7 @@ jotted: true
 
 <div class="tabhtml" markdown="1">
 
-<p><a href="//www.youtube.com/embed/Lxocm28nvwo" data-lity>If statements Video</a></p>
+<iframe src="https://umontana.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=7d23be2f-409b-4ac6-bb8e-b11f014a51b2&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=none" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
 
 Let's start with a form that is similar to what we had before. However, this time, we have two functions. **gasp**.
 
@@ -268,9 +268,9 @@ Next, let's look at how we can do this more than once by using a for loop.
 </div>
 </div>
 <div id="ToDo" class="tabcontent">
-<p class="codepen" data-height="600" data-default-tab="html,result" data-slug-hash="qBXbNPY" data-editable="true" data-user="retrog4m3r" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/qBXbNPY">
-  JS - if statements</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
+<p class="codepen" data-height="600" data-default-tab="html,result" data-slug-hash="qBXbNPY" data-editable="true" data-user="coryMcKague" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/coryMcKague/pen/ZEPdKZJ">
+  JS - if statements</a> by Cory McKague (<a href="https://codepen.io/coryMcKague">@coryMcKague</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>

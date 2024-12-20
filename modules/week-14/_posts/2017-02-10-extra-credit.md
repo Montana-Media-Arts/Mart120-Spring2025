@@ -18,7 +18,7 @@ In this assignment, you are to use the existing project from the previous week a
 3. Pass the x, y, the size (height, width or diameter), and the color into the constructor.
 4. Create at least three different objects of different locations, sizes and colors.
 5. Call the display function in the draw of your main sketch.
-7. Upload your files to GitHub and turn your link into Moodle.
+7. Upload your files to GitHub and turn your link into Canvas.
 
 Want more?
 

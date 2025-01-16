@@ -9,7 +9,7 @@ jotted: false
 <div class="tab">
   <button class="tablinks active" onclick="openTab(event, 'Quick')">Quick Links</button>
   <button class="tablinks" onclick="openTab(event, 'Cory')">Cory McKague</button>
-  <button class="tablinks" onclick="openTab(event, 'Kaisha')">Kaisha Gerhardt</button>
+  <button class="tablinks" onclick="openTab(event, 'Shanel')">Shanel Locke</button>
 </div>
 
 <div id="Quick" class="tabcontent" style="display:block">
@@ -28,9 +28,9 @@ jotted: false
 <p><a href="//www.youtube.com/embed/AnjxNmQlLns" data-lity>Game Design and Interactive Media Video</a></p>
 <p>Cory is an artist, creative technologist, educator, game designer who loves being outside with his family as well as biking, snowboarding, hiking, rock climbing, and just being in nature.</p>
 </div>
-<div id="Kaisha" class="tabcontent" style="floatleft">
+<div id="Shanel" class="tabcontent" style="floatleft">
 <p>Kaisha Gehardt</p>
-<p><a href="mailto:kaisha.gehardt@umconnect.edu">kaisha.gerhardt@umconnect.edu</a></p>
+<p><a href="mailto:shanel.curtis@umconnect.umt.edu">kaisha.gerhardt@umconnect.edu</a></p>
 <p>Is the TA and grader for this course. Feel free to reach out to them as 
 well for any questions </p>
 </div>

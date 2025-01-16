@@ -24,5 +24,5 @@ or you can just email me to schedule a meeting
 
 
 #### TA 
-Shanel Locke is the TA is the TA for this course!
+Shanel Locke is the TA for this course!
 - E-mail: [shanel.curtis@umconnect.umt.edu](shanel.curtis@umconnect.umt.edu)

@@ -29,8 +29,8 @@ jotted: false
 <p>Cory is an artist, creative technologist, educator, game designer who loves being outside with his family as well as biking, snowboarding, hiking, rock climbing, and just being in nature.</p>
 </div>
 <div id="Shanel" class="tabcontent" style="floatleft">
-<p>Kaisha Gehardt</p>
-<p><a href="mailto:shanel.curtis@umconnect.umt.edu">kaisha.gerhardt@umconnect.edu</a></p>
+<p>Shanel Locke</p>
+<p><a href="mailto:shanel.curtis@umconnect.umt.edu">shanel.curtis@umconnect.umt.edu</a></p>
 <p>Is the TA and grader for this course. Feel free to reach out to them as 
 well for any questions </p>
 </div>

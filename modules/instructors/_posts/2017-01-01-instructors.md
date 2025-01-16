@@ -19,7 +19,7 @@ Cory McKague maintains this course. Please contact Cory for problems that the Te
 #### Office Hours
 
 For those in Missoula, you are welcome to come by for help during my office hours.
-Tuesdays/Thursday: 11 am - 12:30 pm
+Tuesdays/Wednesdays: 11 am - 12:30 pm
 or you can just email me to schedule a meeting
 
 

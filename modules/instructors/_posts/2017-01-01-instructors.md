@@ -24,5 +24,17 @@ or you can just email me to schedule a meeting
 
 
 #### TA 
-Shanel Locke is the TA for this course!
-- E-mail: [shanel.curtis@umconnect.umt.edu](shanel.curtis@umconnect.umt.edu)
+Shanel Locke -M.F.A. Candidate for Interactive Media and Game Design at the University of Montana 
+Biography
+I am a visionary artist whose work transcends traditional boundaries, blending contemporary themes with timeless techniques. With a background in fine arts and a passion for exploring the human experience, I create captivating pieces that resonate with audiences on a profound level. My art, characterized by vibrant colors and dynamic compositions, delves into themes of identity, emotion, and the interconnectedness of life. My innovative approach and dedication to my craft have earned me recognition in various exhibitions and art communities. Through my website, www.shanellockeart.comLinks to an external site., I invite you to explore my diverse portfolio and connect with the transformative power of art.
+
+Contact Information
+Office Hours: Monday and Tuesday 8:30-10:00 am
+
+Schedule an Appointment: Calendly
+
+Email: shanel.locke@umconnect.umt.edu
+
+Website: [www.shanellockeart.com](www.shanellockeart.com)
+
+- E-mail: [shanel.locke@umconnect.umt.edu](mailto:shanel.locke@umconnect.umt.edu)
